@@ -2,6 +2,16 @@
 
 ## Images
 
+src = [
+'https://nystudio107.com/blog/the-css-background-image-property-as-an-anti-pattern'
+]
+
+needToRead = [
+'https://images.guide/',
+'https://addyosmani.com/blog/lazy-loading/',
+'https://moz.com/blog/seo-photos-visuals-graphics-whiteboard-friday'
+]
+
 ```js
 <picture>
     <source
